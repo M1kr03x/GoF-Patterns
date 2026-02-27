@@ -1,0 +1,21 @@
+﻿## Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.userprefs
+*.ipch
+*.tlog
+*.log
+*.recipe
+*.db
+*.ilk
+*.obj
+*.pdb
+*.exe
+*.dll
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
