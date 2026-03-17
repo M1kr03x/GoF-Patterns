@@ -2,5 +2,5 @@ class ICommand{
     public:
     virtual void execute() = 0;
     virtual void undo() = 0;
-    virtual ~ICommand();
+    virtual ~ICommand() = default;
 };

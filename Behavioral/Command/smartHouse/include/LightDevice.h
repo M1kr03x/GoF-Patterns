@@ -1,3 +1,4 @@
+#pragma once
 #include "IDevice.h"
 class Light : public Device{
 public:

@@ -1,3 +1,4 @@
+#pragma once
 #include "IDevice.h"
 class MusicCenter : public Device{
 public:

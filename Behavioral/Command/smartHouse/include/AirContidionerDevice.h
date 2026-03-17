@@ -1,3 +1,4 @@
+#pragma once
 #include <string>
 #include "IDevice.h"
 class Conditioner : public Device{
